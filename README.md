@@ -9,7 +9,7 @@ I'm a full-stack developer, server administrator, and creative designer with ext
 - 🧠 Plan, build, and scale full-stack web applications  
 - ⚙️ Host and manage websites on secure VPS servers  
 - 📧 Set up business-class email systems with advanced configurations (SPF, DKIM, DMARC, SMTP)  
-- 🖼️ Design stunning user interfaces using Figma and Photoshop  
+- 🖼️ Design stunning user interfaces using Figma and Photoshop and finally code accordingly with required stacks.   
 - 🔌 Develop custom WordPress plugins and site features  
 - 🛡️ Handle SSL, firewalls, server hardening, and monitoring  
 - 📦 Automate deployment and backup solutions  
